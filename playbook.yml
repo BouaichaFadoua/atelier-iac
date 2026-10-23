@@ -14,4 +14,4 @@
         mode: "0644"
         content: |
           <h1>Bonjour depuis Ansible - Version 2</h1>
-          <p>Deuxieme version de ma page web.</p>
+          <p>Le contenu de cette page a ete modifie avec Ansible.</p>
